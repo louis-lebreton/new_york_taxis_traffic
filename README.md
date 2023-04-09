@@ -6,7 +6,7 @@ Analyse et lissage d'une série temporelle du trafic de taxis à New York (datas
 ### Méthodes statistiques utilisées :
 Lissage de Holt-Winters, moyennes mobiles, transformation de BOX-COX, methode du profil, methode de la bande, test de Buys-Ballot, régressions linéaires simples
 ### Librairies utilisées :
-ggplot2, lubridate, viridis, timeDate, car.
+ggplot2, lubridate, viridis, timeDate, car, viridis.
 
 ### Exemple de graphiques réalisés :
 <p align="center">
