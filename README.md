@@ -1,14 +1,15 @@
-# Analyse du trafic de taxis à New York : Observations et lissages sous R  - Projet de Licence 3 MIASHS (Semestre 5)
+# Analysis of taxi traffic in New York: Observations and smoothing in R 
 
-### Objectif du projet : 
-Analyse et lissage d'une série temporelle du trafic de taxis à New York (dataset : https://www.kaggle.com/datasets/julienjta/nyc-taxi-traffic)
+### Project goal : 
+Analysis and smoothing of a time series of taxi traffic in New York (dataset : https://www.kaggle.com/datasets/julienjta/nyc-taxi-traffic)
 
-### Méthodes statistiques utilisées :
-Lissage de Holt-Winters, moyennes mobiles, transformation de BOX-COX, methode du profil, methode de la bande, test de Buys-Ballot, régressions linéaires simples
-### Librairies utilisées :
+### Statistical methods used :
+Holt-Winters smoothing, moving averages, BOX-COX transformation, profile method, band method, Buys-Ballot test, simple linear regressions
+
+### Libraries used :
 ggplot2, lubridate, viridis, timeDate, car, viridis.
 
-### Exemple de graphiques réalisés :
+### Examples of charts created:
 <p align="center">
 <img src="Exemple_graph_1.jpeg" alt="Exemple_graph_1" width="700"/>
 <img src="Exemple_graph_2.jpeg" alt="Exemple_graph_2" width="700"/>
